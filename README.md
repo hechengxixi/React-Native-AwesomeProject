@@ -1,1 +1,3 @@
-From react-native init AwesomeProject
+# react-native component test
+
+## 1. react-native-video
